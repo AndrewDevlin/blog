@@ -1,0 +1,15 @@
+.first{
+  text-align: center;
+  color: green;
+  text-indent: inherit;
+}
+
+.second{
+  text-align: right;
+  color: yellow;
+}
+.third{
+  text-align: left;
+  color: red;
+  font-family: cursive;
+}
